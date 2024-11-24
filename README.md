@@ -1,5 +1,5 @@
 ### BIN TRADUCTOR 
-
+### CREADO POR CARDO49
 ###### Que Hace Este Script?
 
 Traducir textos de inglés a español 
