@@ -1,10 +1,12 @@
-### BIN TRADUCTOR
-### CREADO POR CARDO49
+### BIN TRADUCTOR 
 
-# GRACIAS POR APOYAR
+###### Que Hace Este Script?
 
-### INSTALACIÓN
+Traducir textos de inglés a español 
 
+###  INSTALACION: 
+
+```
 apt-get install python
 
 pkg install git -y
