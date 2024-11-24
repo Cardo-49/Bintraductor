@@ -1,2 +1,4 @@
-# Bintraductor
-Scrip traducción textos Ingles a Español
+### BIN TRADUCTOR
+### CREADO POR CARDO49
+
+# GRACIAS POR APOYAR
