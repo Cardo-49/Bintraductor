@@ -3,7 +3,7 @@
 
 # GRACIAS POR APOYAR
 
-INSTALACIÓN 
+### INSTALACIÓN
 
 apt-get install python
 
